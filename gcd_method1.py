@@ -1,3 +1,5 @@
+""" write a program to find out the gcd of two numbers using loops"""
+
 def gcd(n,m):
     smallest=min(n,m)
     if n==0 or m==0:

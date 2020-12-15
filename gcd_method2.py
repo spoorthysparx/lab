@@ -1,3 +1,5 @@
+"""write a program to find out the gcd of two numbers """
+
 def gcd(a,b):
     while b:
         a,b=b,a%b

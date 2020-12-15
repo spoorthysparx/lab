@@ -1,3 +1,5 @@
+""" write a program to find out the factorial of a number using recursion"""
+
 def fact_with_recursion(n):
     if n==1:
         return 1
